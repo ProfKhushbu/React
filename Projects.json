@@ -1,0 +1,14 @@
+[
+  {
+    "title": "React Portfolio Website",
+    "description": "A personal portfolio website built using React, showcasing projects and skills."
+  },
+  {
+    "title": "MERN Stack E-commerce App",
+    "description": "An e-commerce application built with the MERN stack (MongoDB, Express, React, Node.js) including user authentication and payment integration."
+  },
+  {
+    "title": "React Task Manager",
+    "description": "A task management app developed using React, featuring task creation, editing, and deletion."
+  }
+]
